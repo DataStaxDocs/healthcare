@@ -6,7 +6,7 @@ Sample files for the DataStax healthcare demo.
 
 The healthcare demo includes:
 
-* A CSV data file
+* CSV sample data file in a zip
 * Several individual CQL command files
 * A configuration file used with the `dsbulk` command
 * A script to run the demo
