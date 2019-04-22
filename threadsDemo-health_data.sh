@@ -2,7 +2,7 @@
 # Setup and run queryMultithreads demo with health_data
 # Script: creates keyspace; creates table; loads table; creates search index; changes / verifies queryExecutorThreads.
 
-# Required files from zip:
+# Required files:
 # 0_create_keyspace.cql
 # createTable-health_data.cql
 # createSearchIndex-health_data.cql
